@@ -1,0 +1,104 @@
+# JavaScript, Node.js, MongoDB & React Concepts
+
+## 🟨 JavaScript Core Concepts
+
+- Variables, Keywords, and Identifiers  
+- Execution Context, Hoisting, and Call Stack  
+- `let`, `var`, `const`, and Temporal Dead Zone  
+- Scopes, Scope Chaining, Lexical Environment  
+- Primitive and Non-Primitive Data Types  
+- Mutable and Immutable  
+- Array Methods and String Methods  
+- Post-Increment and Pre-Increment  
+- Anonymous Functions and Arrow Functions  
+
+## 🟨 Advanced JavaScript
+
+- Object Cloning: Reference Copying, Shallow Copy, and Deep Copy  
+- Asynchronous Programming: Callback, Callback Hell, Promise, Promise Chaining, Async/Await  
+- Error Handling: Promises and Try-Catch  
+- Object Methods  
+- Closure  
+- Currying  
+- Memoization  
+- `call`, `apply`, and `bind`  
+
+---
+
+## 🟩 Node.js Basics
+
+- Basic Knowledge: NPM, NVM, Server Creation  
+- Modules, Request & Response  
+- HTTP Methods  
+
+### 🟩 Express.js
+
+- Framework vs Library  
+- Server Creation with Express  
+- `app` and `router`  
+- `request.params` vs `request.query`  
+- HTTP Status Codes  
+- Middlewares and Its Types  
+- `app.use`, `app.all`  
+- Sessions and Cookies  
+
+### 🛠️ API Testing Tools
+
+- Postman  
+- Simple Project to Understand All Concepts  
+
+---
+
+## 🟦 MongoDB & Mongoose
+
+### 🟦 Basics
+
+- SQL vs NoSQL  
+- CRUD: Insert, Update, Delete, Find  
+
+### 🟦 Aggregation Pipeline
+
+- `$match`, `$group`, `$lookup`, `$unwind`, `$project`, `$out`, `$skip`, `$limit`  
+- Other Operators: `$add`, `$subtract`, `$multiply`, `$sum`, `$set`, `$addToSet`, `$push`, `$pop`, `$pull`, `$unset`, `$inc`  
+
+### 🟦 Advanced Concepts
+
+- Indexing  
+- Sharding  
+- Replication & Replica Set  
+
+### 🧰 Tools
+
+- MongoDB Atlas (Cloud DB)  
+- MongoDB Compass (UI)  
+- Integration with Express.js Project  
+
+---
+
+## ⚛️ React.js Concepts
+
+### 🧠 Core Concepts
+
+1. What is a SPA (Single Page Application) and why it's needed?  
+2. DOM vs Virtual DOM – How React Works  
+3. JSX and Components  
+4. Props and Props Drilling  
+5. Event Handling  
+6. State Management – `useState`  
+7. Props vs State  
+8. `useEffect` and `useRef` Hooks  
+9. `useContext` Hook  
+10. Conditional Rendering  
+
+### 🔄 Intermediate to Advanced Concepts
+
+1. Event Handling  
+2. Conditional Rendering  
+3. Lists and Keys  
+4. API Integration  
+5. Routing  
+6. `useContext`  
+7. Redux  
+8. `useMemo`  
+9. `useCallback`  
+10. `React.memo`#
